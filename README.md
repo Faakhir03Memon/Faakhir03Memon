@@ -52,21 +52,29 @@ Btu9dNS/giphy.gif" width="350" />
 ![](https://github-readme-stats.vercel.app/api?username=FaakhirMemon030&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FaakhirMemon030&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaakhirMemon030&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=algolia&no-frame=true&margin-w=12&margin-h=12&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience" />
+
 </div>
-### ✍️ Random Dev Quote
+
+## ✍️ Random Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </div>
-### 🔝 Top Contributed Repo
+
+##🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FaakhirMemon030&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=FaakhirMemon030&icon=6&color=1)](https://visitcount.itsvg.in)
-<div align="center">
+
+
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=FaakhirMemon030&icon=5&color=6&pretty=true" />
 </div>
+
 ### 💎 “Turning Ideas into Scalable Digital Experiences”
 ⭐ From **Faakhir Memon** 🚀
 </div>
