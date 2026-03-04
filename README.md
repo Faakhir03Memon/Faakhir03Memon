@@ -1,17 +1,44 @@
 <!-- ================= HEADER ================= -->
 
-## 🎮 Developer Mode Activated
+### 🟢 CYBER HACKER MODE ACTIVATED
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+Faakhir+Memon;Full+Stack+Developer;Cyber+Security+Enthusiast;Deploying+Next+Level+Code..." />
 
 </div>
 
 ---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+
+</div>
+
+---
+
+## 💻 Terminal Activity
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/10rsLtGrOcCR0s/giphy.gif" width="350"/>
+
+<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="350"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 "Code. Hack. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF00&height=120&section=footer"/>
+
+</div>
 ## 🚀 Coding In Progress...
 
 <div align="center">
@@ -81,25 +108,31 @@ My name is Faakhir Memon, and I am a passionate Full Stack Developer currently p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=algolia&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=algolia&no-frame=true&title=Stars" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=radical&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=radical&no-frame=true&title=Followers" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=onedark&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=onedark&no-frame=true&title=Commits" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=dracula&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=dracula&no-frame=true&title=Repositories" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=tokyonight&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=tokyonight&no-frame=true&title=PullRequest" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=gruvbox&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=gruvbox&no-frame=true&title=Issues" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=matrix&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=matrix&no-frame=true&title=MultiLanguage" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=discord&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=FaakhirMemon030&theme=discord&no-frame=true&title=Experience" />
 
 </div>
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FaakhirMemon030&limit=5&theme=dark&combine_all_yearly_contributions=true)
