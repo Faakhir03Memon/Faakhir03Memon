@@ -1,4 +1,30 @@
 <!-- ================= HEADER ================= -->
+### 🟢 CYBER HACKER MODE ACTIVATED
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Access+Granted+Faakhir+Memon;Full+Stack+Developer;Cyber+Security+Enthusiast;Deploying+Next+Level+Code..." />
+</div>
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</div>
+## 💻 Terminal Activity
+<div align="center">
+<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="350"/>
+</div>
+<div align="center">
+### 🧠 "Code. Hack. Build. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF00&height=120&section=footer"/>
+</div>
+## 🚀 Coding In Progress...
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" />
+</div>
+## 💻 Night Coding Vibes
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Faakhir%20Memon&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### 💻 Full Stack Developer | 🚀 App Developer | 🌐 Freelancer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Flutter+Cross+Platform+Apps;Modern+Full+Stack+Solutions;Always+Learning+New+Technologies" />
